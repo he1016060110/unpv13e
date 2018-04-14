@@ -1,0 +1,10 @@
+*.o
+Make.defines
+Makefile
+config.h
+config.log
+config.status
+libunp.a
+*/*
+!*/*.c
+!*/*.h
